@@ -1,0 +1,33 @@
+﻿  Skipping... (no relevant changes detected)
+  shader.cpp
+  main.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+shader.obj : warning LNK4049: locally defined symbol ___glewAttachShader imported
+shader.obj : warning LNK4049: locally defined symbol ___glewCompileShader imported
+shader.obj : warning LNK4049: locally defined symbol ___glewCreateProgram imported
+shader.obj : warning LNK4049: locally defined symbol ___glewCreateShader imported
+shader.obj : warning LNK4049: locally defined symbol ___glewDeleteShader imported
+shader.obj : warning LNK4049: locally defined symbol ___glewGetProgramInfoLog imported
+shader.obj : warning LNK4049: locally defined symbol ___glewGetProgramiv imported
+shader.obj : warning LNK4049: locally defined symbol ___glewGetShaderInfoLog imported
+shader.obj : warning LNK4049: locally defined symbol ___glewGetShaderiv imported
+shader.obj : warning LNK4049: locally defined symbol ___glewLinkProgram imported
+shader.obj : warning LNK4049: locally defined symbol ___glewShaderSource imported
+shader.obj : warning LNK4049: locally defined symbol ___glewUseProgram imported
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Projects\C++\Visual Studio\OpenGL Projects\Debug\vc120.pdb'; linking object as if no debug info
+glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(context.obj)' or at 'C:\Projects\C++\Visual Studio\OpenGL Projects\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(init.obj)' or at 'C:\Projects\C++\Visual Studio\OpenGL Projects\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(input.obj)' or at 'C:\Projects\C++\Visual Studio\OpenGL Projects\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(monitor.obj)' or at 'C:\Projects\C++\Visual Studio\OpenGL Projects\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(vulkan.obj)' or at 'C:\Projects\C++\Visual Studio\OpenGL Projects\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(window.obj)' or at 'C:\Projects\C++\Visual Studio\OpenGL Projects\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_init.obj)' or at 'C:\Projects\C++\Visual Studio\OpenGL Projects\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_joystick.obj)' or at 'C:\Projects\C++\Visual Studio\OpenGL Projects\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_monitor.obj)' or at 'C:\Projects\C++\Visual Studio\OpenGL Projects\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_time.obj)' or at 'C:\Projects\C++\Visual Studio\OpenGL Projects\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_tls.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_tls.obj)' or at 'C:\Projects\C++\Visual Studio\OpenGL Projects\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_window.obj)' or at 'C:\Projects\C++\Visual Studio\OpenGL Projects\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(wgl_context.obj)' or at 'C:\Projects\C++\Visual Studio\OpenGL Projects\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(egl_context.obj)' or at 'C:\Projects\C++\Visual Studio\OpenGL Projects\Debug\glfw.pdb'; linking object as if no debug info
+  Field.vcxproj -> C:\Projects\C++\Visual Studio\OpenGL Projects\Debug\Field.exe
+  Field.vcxproj -> C:\Projects\C++\Visual Studio\OpenGL Projects\Debug\Field.pdb (Partial PDB)

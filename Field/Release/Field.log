@@ -1,0 +1,37 @@
+﻿  camera.cpp
+  main.cpp
+main.cpp(153): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(154): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(157): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(158): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(159): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(160): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(162): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+main.cpp(201): warning C4305: '+=': truncation from 'double' to 'float'
+main.cpp(202): warning C4305: '-=': truncation from 'double' to 'float'
+main.cpp(203): warning C4305: '+=': truncation from 'double' to 'float'
+main.cpp(204): warning C4305: '-=': truncation from 'double' to 'float'
+main.cpp(208): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+main.cpp(209): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+main.cpp(216): warning C4244: 'argument': conversion from 'int' to 'const GLfloat', possible loss of data
+main.cpp(217): warning C4244: 'argument': conversion from 'int' to 'const GLfloat', possible loss of data
+  shader.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  All 399 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+shader.obj : warning LNK4049: locally defined symbol ___glewLinkProgram imported
+shader.obj : warning LNK4049: locally defined symbol ___glewDeleteShader imported
+shader.obj : warning LNK4049: locally defined symbol ___glewGetProgramInfoLog imported
+shader.obj : warning LNK4049: locally defined symbol ___glewShaderSource imported
+shader.obj : warning LNK4049: locally defined symbol ___glewAttachShader imported
+shader.obj : warning LNK4049: locally defined symbol ___glewGetProgramiv imported
+shader.obj : warning LNK4049: locally defined symbol ___glewGetShaderInfoLog imported
+shader.obj : warning LNK4049: locally defined symbol ___glewCreateProgram imported
+shader.obj : warning LNK4049: locally defined symbol ___glewCreateShader imported
+shader.obj : warning LNK4049: locally defined symbol ___glewCompileShader imported
+shader.obj : warning LNK4049: locally defined symbol ___glewGetShaderiv imported
+shader.obj : warning LNK4049: locally defined symbol ___glewUseProgram imported
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Projects\C++\Visual Studio\OpenGL Projects\Release\vc120.pdb'; linking object as if no debug info
+  Field.vcxproj -> C:\Projects\C++\Visual Studio\OpenGL Projects\Release\Field.exe
